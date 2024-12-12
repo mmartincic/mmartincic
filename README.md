@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currently working on a self hosted voice asistant.<br>I'm looking for help with RTOS.<br>I'm currently learning buildroot.<br>Ask me about PHP.<br>PHP is built using C :D
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mateo.does.stuff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateo-martin%C4%8Di%C4%87-ba15ba233) 
 
